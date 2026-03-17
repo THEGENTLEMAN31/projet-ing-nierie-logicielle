@@ -1,2 +1,2 @@
-# projet-ing-nierie-logicielle
+# projet-ingénierie-logicielle
 
